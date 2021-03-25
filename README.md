@@ -4,6 +4,7 @@
 Configure DB in .env file
 
 `php artisan migrate --seed`
+
 `php artisan nova:publish`
 
 Login with `admin@example.com` and `12345` password
