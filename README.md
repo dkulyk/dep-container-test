@@ -11,7 +11,7 @@ Login with `admin@example.com` and `12345` password
 
 Go to editing user 1 (type is admin)
 
-Press `+ Create` on Role field - default type is user.
+Press `+ Create` on Role field - default type is `user`.
 
-Field Other must be shown.
+Field Other must be shown but it hidden as for not `user` type.
 
